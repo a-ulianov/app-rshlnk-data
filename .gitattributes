@@ -1,0 +1,4 @@
+# Документ и подпись — БАЙТЫ, git их не трогает.
+# CRLF-нормализация ломает detached-подпись Ed25519 (2026-08-01).
+update -text
+update.sig -text binary
